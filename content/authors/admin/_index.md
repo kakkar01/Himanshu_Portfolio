@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Himanshu Kakkar
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Himanshu
+last_name: Kakkar
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 👨🏻‍💻
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,41 +20,36 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Data Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  -
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:himanshu.kakkar@georgebrown.ca'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/himanshu-kakkar-70121b154/   
+  
+  - icon: brands/github
+    url: https://github.com/kakkar01
   - icon: brands/instagram
     url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
-
-interests:
+  
+  
+Interests:
   - Artificial Intelligence
   - Computational Linguistics
-  - Information Retrieval
+  - Attending tech meetups and conferences
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
+  - area: Applied AI Solution Development
+    institution: George Brown College
+    date_start: 2024-01-09
     date_end: 2020-12-31
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
